@@ -1,0 +1,41 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+      "total": 16027,
+      "per_page": "2",
+      "current_page": 1,
+      "last_page": 8014,
+      "next_page_url": "http://zdongpin.oa.com/shop/handle/appraise/goods/info?=2",
+      "prev_page_url": null,
+      "from": 1,
+      "to": 2,
+      "data": [
+          {
+              "gname": "中瑞猪耳",
+              "addtime": "2015-08-22 14:36:17",
+              "id": 16,
+              "shopid": 5,
+              "dianPuName": "阳光食品",
+              "goods_price": "385.00",
+              "appraiseNum": 0,
+              "appraiseGood": "0%",
+              "deliverySpeed": "0",
+              "servicePlatform": "0",
+              "saleNum": "1"
+          },{
+            "gname": "中瑞猪耳2",
+            "addtime": "2015-08-22 14:36:17",
+            "id": 16,
+            "shopid": 5,
+            "dianPuName": "阳光食品",
+            "goods_price": "385.00",
+            "appraiseNum": 0,
+            "appraiseGood": "0%",
+            "deliverySpeed": "0",
+            "servicePlatform": "0",
+            "saleNum": "1"
+          }
+      ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "avg_shop_goods_appraises": "81%",
+        "all_good_appraises": "82%",
+        "all_medium_appraise": "14%",
+        "all_poor_appraise": "4%",
+        "all_has_img_appraise": "0%",
+        "order_appraise_ratio": "18%",
+        "order_appraise_num": 4738,
+        "avg_shop_delivery": 4.8,
+        "avg_shop_service": 4.9
+    }
+}

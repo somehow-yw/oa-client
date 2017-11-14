@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "data": {
+        "all": {
+            "num": 100,
+            "ope": "21%"
+        },
+        "buyer": {
+            "num": 50,
+            "ope": "10%"
+        },
+        "seller": {
+            "num": 30,
+            "ope": "40%"
+        },
+        "buyerOperation": 10,
+        "sellerOperation": 10
+    },
+    "message": "ok"
+}

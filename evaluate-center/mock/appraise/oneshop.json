@@ -1,0 +1,19 @@
+{
+    "code": 0,
+    "message": "OK",
+    "data": {
+        "name": "冻参谋冷链配送部",
+        "ZhuCe": "2016-07-29 16:02:51",
+        "money": "854238.50",
+        "appraise_num": 1376,
+        "good_appraise_ratio": "85%",
+        "medium_appraise_ratio": "10%",
+        "poor_appraise_ratio": "5%",
+        "good_appraise": 1175,
+        "good_appraise_img": 0,
+        "medium_appraise": 135,
+        "medium_appraise_img": 0,
+        "poor_appraise": 66,
+        "poor_appraise_img": 0
+    }
+}

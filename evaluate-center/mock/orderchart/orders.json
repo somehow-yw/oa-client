@@ -1,0 +1,93 @@
+{
+    "code": 0,
+    "data": {
+        "all": {
+            "allPercent": "80%",
+            "allNum": 200,
+            "firstPercent": "80%",
+            "firstNum": 180,
+            "secondPercent": "80%",
+            "secondNum": 160,
+            "thirdlyPercent": "70%",
+            "thirdNum": 140
+        },
+        "percent": {
+            "2017-02-01": {
+                "all": {
+                    "cancelNum": 10,
+                    "num": 5,
+                    "percent": "80%",
+                    "turnover": "0%"
+                },
+                "first": {
+                    "num": 0,
+                    "percent": "40%",
+                    "turnover": "0%"
+                },
+                "second": {
+                    "num": 0,
+                    "percent": "50%",
+                    "turnover": "0%"
+                },
+                "thirdly": {
+                    "num": 0,
+                    "percent": "20%",
+                    "turnover": "0%"
+                }
+            },
+            "2017-02-02":{
+                "all": {
+                    "cancelNum": 10,
+                    "num": 5,
+                    "percent": "70.9%",
+                    "turnover": "0%"
+                },
+                "first": {
+                    "num": 0,
+                    "cancelNum": 20,
+                    "percent": "30%",
+                    "turnover": "0%"
+                },
+                "second": {
+                    "num": 0,
+                    "cancelNum": 30,
+                    "percent": "50%",
+                    "turnover": "0%"
+                },
+                "thirdly": {
+                    "num": 0,
+                    "cancelNum":40,
+                    "percent": "50%",
+                    "turnover": "0%"
+                }
+            },
+            "2017-02-04":{
+                "all": {
+                    "num": 5,
+                    "cancelNum": 10,
+                    "percent": "90.6%",
+                    "turnover": "0%"
+                },
+                "first": {
+                    "num": 0,
+                    "cancelNum": 40,
+                    "percent": "60%",
+                    "turnover": "0%"
+                },
+                "second": {
+                    "num": 0,
+                    "cancelNum": 40,
+                    "percent": "60%",
+                    "turnover": "0%"
+                },
+                "thirdly": {
+                    "num": 0,
+                    "cancelNum": 50,
+                    "percent": "60%",
+                    "turnover": "0%"
+                }
+            }
+        }
+    },
+    "message": "ok"
+}

@@ -1,0 +1,21 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": {
+      "total": 1722,
+      "max_page": 58,
+      "current_page": 1,
+      "list": [
+          {
+              "shop_id": 14226,
+              "name": "盛宝食品",
+              "ZhuCe": "2017-01-09 14:07:17",
+              "allSale": 4.5,
+              "deliverySpeed":4.8,
+              "servicePlatform":4.9,
+              "appraiseNum": 0,
+              "goodAppraise": 4.5
+          }
+       ]
+     }
+  }

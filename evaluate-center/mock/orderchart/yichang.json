@@ -1,0 +1,18 @@
+{
+    "code": 0,
+    "data": [
+        {
+            "reason": "不想要了",
+            "num": 2
+        },
+        {
+            "reason": "我不想买了",
+            "num": 2
+        },
+        {
+            "reason": "的撒旦",
+            "num": 1
+        }
+    ],
+    "message": "ok"
+}

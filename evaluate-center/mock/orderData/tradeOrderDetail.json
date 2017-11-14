@@ -1,0 +1,72 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "finance_refund_data": [],
+        "order_id": "",
+        "order_num": "139391509678639hiXVaX30",
+        "pay_way": "在线支付",
+        "order_state": 14,
+        "refund_order_type": "",
+        "special_order": 0,
+        "order_flow": [
+            {
+                "field": "订单创建成功",
+                "person": "卖家",
+                "time": "2017-11-03 11:10:39"
+            }
+        ],
+        "buy_kind": 1,
+        "order_price": "2.02",
+        "order_reduce_price": "2.00",
+        "relief_amount": "0.00",
+        "buy_realpay": "0.00",
+        "transport_pay": "0.00",
+        "goods_info": [
+            {
+                "goods_id": 108247,
+                "goods_title": "测试测试测试测试测试测试测试测试测试测试barry",
+                "price": "1.01",
+                "num": 2,
+                "reduce_price": "2",
+                "total_price": "0.02"
+            }
+        ],
+        "seller_cancel_order": [],
+        "buyer_refund_data": [],
+        "buyer_return_data": [],
+        "buyer_news": [
+            {
+                "buyer_shop_name": "牛肉粒",
+                "name": "李小龙",
+                "tel": "18608024181",
+                "address": null
+            }
+        ],
+        "seller_news": [
+            {
+                "seller_shop_name": "1107",
+                "register_tel": "1107",
+                "seller_tel": "18968029420",
+                "seller_address": "四川省成都市创业路"
+            }
+        ],
+        "logistics": {
+            "seller_find_car": [
+                {
+                    "seller_market": "海霸王",
+                    "contacts": null,
+                    "contact_tel": null,
+                    "get_area": "四川省成都市武侯区",
+                    "get_address": "玉林6路5号"
+                }
+            ],
+            "buyer_find_car": [
+                {
+                    "car_tel": null,
+                    "car_num": null
+                }
+            ]
+        }
+    }
+}
